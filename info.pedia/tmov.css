@@ -1,0 +1,30 @@
+body
+{background-color: black
+    
+}
+h1
+{
+    color:dodgerblue;
+font-family:monospace;
+    font-size: 42;
+}
+h2 
+{color:darkgoldenrod;
+    font-family: fantasy;
+    font-size:39;
+    text-align: center;
+}
+p1
+{
+    color:aqua;
+    font-family: cursive;
+    font-size: 30;
+    
+}
+p2
+{
+    color:crimson;
+    font-family: cursive;
+    font-size: 30;
+   
+}
